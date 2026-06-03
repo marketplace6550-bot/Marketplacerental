@@ -1,2 +1,2 @@
 # Marketplacerental
-Market place rental 
+Marketplace Rental Online Rental Application Platform
